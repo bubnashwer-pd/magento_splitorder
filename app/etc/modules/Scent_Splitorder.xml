@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <modules>
+        <Scent_Splitorder>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Scent_Splitorder>
+    </modules>
+</config>
