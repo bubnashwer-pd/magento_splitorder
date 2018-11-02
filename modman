@@ -1,0 +1,7 @@
+app/etc/modules/Scent_Splitorder.xml  app/etc/modules/Scent_Splitorder.xml
+app/code/local/Scent/Splitorder/etc/config.xml app/code/local/Scent/Splitorder/etc/config.xml
+app/code/local/Scent/Splitorder/sql/splitorder_setup/mysql4-install-1.0.0.php app/code/local/Scent/Splitorder/sql/splitorder_setup/mysql4-install-1.0.0.php
+app/code/local/Scent/Splitorder/Model/Checkout/Type/Onepage.php app/code/local/Scent/Splitorder/Model/Checkout/Type/Onepage.php
+app/code/local/Scent/Splitorder/Block/Sales/Order/Recent.php app/code/local/Scent/Splitorder/Block/Sales/Order/Recent.php
+app/code/local/Scent/Splitorder/Block/Sales/Order/History.php app/code/local/Scent/Splitorder/Block/Sales/Order/History.php
+app/code/local/Scent/Splitorder/Block/Adminhtml/Sales/Order/Grid.php app/code/local/Scent/Splitorder/Block/Adminhtml/Sales/Order/Grid.php
