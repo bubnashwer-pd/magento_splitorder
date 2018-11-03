@@ -6,11 +6,6 @@
         </Scent_Splitorder>
     </modules>
     <global>
-        <helpers>
-            <splitorder>
-                <class>Scent_Splitorder_Helper</class>
-            </splitorder>
-        </helpers>
         <blocks>
             <sales>
                 <rewrite>
